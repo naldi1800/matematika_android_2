@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "235209867581",
+    "project_id": "matematika-d1820",
+    "storage_bucket": "matematika-d1820.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235209867581:android:1821cd623a31a0e1558554",
+        "android_client_info": {
+          "package_name": "com.example.matematika"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd_k-7fGI7-Ir2Z7UmaSZAI00YxvtNqHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

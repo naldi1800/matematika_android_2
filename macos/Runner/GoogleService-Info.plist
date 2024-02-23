@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBHM5muEKnBYdw2HXSTTbLxc0mkvr5xuTA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>235209867581</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.matematika.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>matematika-d1820</string>
+	<key>STORAGE_BUCKET</key>
+	<string>matematika-d1820.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:235209867581:ios:9863d4983499c115558554</string>
+</dict>
+</plist>
